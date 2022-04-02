@@ -1,0 +1,35 @@
+body{
+    background-image: url("allef-vinicius-hxNiXP498UI-unsplash.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.overlay{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    color: azure;
+
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a{
+    padding: 30px;
+    font-size: larger;
+    color: aqua;
+    float: right;
+    display: inline;
+    display: inline-flex;
+    
+}
+
+ul li a:hover{
+    background-color: black;
+}
+    
+

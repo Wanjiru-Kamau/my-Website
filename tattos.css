@@ -1,0 +1,25 @@
+body{
+    background-image: url(tatooshop.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.overlay{
+    text-align: right
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a{
+    padding: 50px 30px;
+    font-size: larger;
+    color: wheat;
+    float: right;
+    
+}
+ul li a:hover{
+    background-color: black;
+}
